@@ -1,8 +1,4 @@
-# lab9
-um
-git init
+lab 01
 git clone
-add file
-cd
-git commit -m""
+git add . 
 git push
